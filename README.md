@@ -7,7 +7,7 @@ Community translations made for Bukkit/Paper plugins (paid or doesn't include tr
 *Những loại bản dịch hiện tại đang làm/có*
 | Plugin                                 | Giá cả      | Tiến trình bản dịch                           |
 |----------------------------------------|-------------|-----------------------------------------------|
-| Lands                                  | N/A         | 0%                                            |
+| Create Aeronautics                     | N/A         | ?% - Bản dịch khó, đặc biệt là dịch bằng Resource-pack|
 | Simple TPA                             | Free        | 0%                                            |
 | N/A                                    | N/A         | 0%                                            |
 
