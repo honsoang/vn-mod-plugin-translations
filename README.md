@@ -5,10 +5,10 @@ Community translations made for Bukkit/Paper plugins (paid or doesn't include tr
 #
 
 *Những loại bản dịch hiện tại đang làm/có*
-| Plugin                                 | Giá cả      | Tiến trình bản dịch                           |
-|----------------------------------------|-------------|-----------------------------------------------|
-| Create Aeronautics                     | N/A         | ?% - Bản dịch khó, đặc biệt là dịch bằng Resource-pack|
-| Simple TPA                             | Free        | 0%                                            |
-| N/A                                    | N/A         | 0%                                            |
+| Plugin                                 | Tiến trình bản dịch                           |
+|----------------------------------------|-----------------------------------------------|
+| Create Aeronautics                     | ?% - Bản dịch khó, đặc biệt là dịch bằng Resource-pack|
+| [No Man's Land](https://modrinth.com/mod/no-mans-land)                          | 100% - CẦN CHỈNH SỬA CHÍNH TẢ!                                           |
+| N/A                                    | 0%                                            |
 
 
