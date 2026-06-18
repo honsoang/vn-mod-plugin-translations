@@ -12,5 +12,15 @@ Community translations made for Loaders/Plugins like NeoForge, Fabric and even P
 | [No Man's Land](https://modrinth.com/mod/no-mans-land)                          | 100% - CẦN CHỈNH SỬA CHÍNH TẢ!                                           |
 | N/A                                    | 0%                                            |
 
-Lý do mình làm project này
-- Do là giờ đây Minecraft càng có nhiều mod rất hay như Create Aeronautics hay thậm chí L_Ender Cataclysm. Những mod hay này rất hiếm được cộng đồng người Việt góp công dịch do những project này tốn nhiều thời gian, kỳ công, ít người, sẽ có vài mod họ đơn giản chỉ có 80-100 key để dịch nhưng mà sẽ có những mod có hàng nghìn, 6-8 trăm key phải dịch đặc biệt là trong Aeronautics thì cần phải hiểu rõ về từ vựng + kiến thức vật lý và áp dụng thế nào cho người khác hiểu. Mình làm repo này để cho phép nhiều người cùng nhau xây dựng bản dịch thật vững, dễ sửa lỗi qua RSP và không cần phải đợi chờ dev chính update hay accept apply Crowdin, mệt lắm! Nên mình mong rằng repo của mình trở nên có ích hơn cho cộng đồng Việt Nam Minecraft ta có thể hiểu được bao nhiều modpack, tech mod khó thay vì theo ông cha ta [tự dịch và giải thích 90% khó mấy ai hiểu](https://www.youtube.com/watch?v=c_duKrPyPGQ&list=PL2Ot9ZT0jWNmpT8umETN8FzjSsUKsw94v&index=2)
+# Lý do mình làm project này
+**Mình muốn làm những cái bản dịch có ý nghĩa nhất cho những người không rành tiếng Anh, trong cộng đồng MCVN ta và bạn bè của mình!**
+
+Có những mod chỉ có vài chục đến khoảng một trăm key dịch, nhưng cũng có những mod sở hữu từ 600 đến hơn 1000 key. Đặc biệt với các mod kỹ thuật như Create Aeronautics, người dịch không chỉ cần biết mỗi tiếng Anh mà còn phải hiểu nguyên lý cơ khí, vật lý và tìm cách diễn đạt sao cho người chơi Việt ta có thể hiểu được.
+
+Rồi đó, số lượng người tham gia dịch mod ở cộng đồng Việt Nam vẫn còn khá ít. Nhiều dự án phụ thuộc vào 1-2 người duy trì, dẫn đến tiến độ chậm, khó sửa lỗi và phải chờ đợi pull request cho dev chính chấp nhận, đến khi thấy sai chính tả lại phải Pull Request rất mất thời gian..
+
+Mình mong repo này có thể trở thành một nguồn tài nguyên chung cho cộng đồng Minecraft Việt Nam.
+Thay vì mọi người phải vừa chơi vừa dịch mấy cái con chữ không phải tiếng mẹ đẻ của mình lại còn phức tạp, repo này giúp mọi người cùng nhau xây dựng những bản dịch chất lượng cho các mod và modpack hiện đại. Điều đó giúp người chơi Việt Nam dễ tiếp cận hơn, giúp các mod tech dễ hiểu hơn và giúp mn có thể trải nghiệm trọn vẹn các mod tác giả đã tạo ra.
+
+Dù bạn chỉ sửa một lỗi chính tả hay dịch vài ba dòng văn bản, mọi đóng góp đều có giá trị đối với mình!
+- litsonhoang \ the boys mc
