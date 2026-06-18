@@ -4,6 +4,7 @@
 Community translations made for Loaders/Plugins like NeoForge, Fabric and even Paper plugins (paid or doesn't include translations)
 
 ### [**Trước khi góp công cho bản dịch, bạn đồng ý với bản cấp phép CC-BY-NC-SA-4.0 như được đặt trong phần Details của page Modrinth**](https://modrinth.com/resourcepack/no-mans-land-vietnamese)
+(Project không nhận tiền bên ngoài, tiền quảng cáo sẽ được đóng góp vào 3 quỹ từ thiện nước ngoài do Modrinth cấp - Project will not take revenue, ad-revenues will be donated to 3 charities provided by Modrinth)
 
 *Những loại bản dịch hiện tại đang làm/có*
 | Plugin                                 | Tiến trình bản dịch                           |
