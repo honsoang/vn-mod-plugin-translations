@@ -7,11 +7,11 @@ Community translations made for Loaders/Plugins like NeoForge, Fabric and even P
 (Project không nhận tiền bên ngoài, tiền quảng cáo sẽ được đóng góp vào 3 quỹ từ thiện nước ngoài do Modrinth cấp - Project will not take revenue, ad-revenues will be donated to 3 charities provided by Modrinth)
 
 *Những loại bản dịch hiện tại đang làm/có*
-| Plugin / Mod                           | Tiến trình bản dịch                                        |
-|----------------------------------------|------------------------------------------------------------------|
-| Create Aeronautics                     | ?% - Bản dịch khó, đặc biệt là dịch bằng Resource-pack           |
-| [No Man's Land](https://modrinth.com/mod/no-mans-land)| 100% - CẦN CHỈNH SỬA CHÍNH TẢ!                    |
-| [Cult of Azazel](https://modrinth.com/mod/cult-of-azazel)| 100% (ĐÃ THÀNH BẢN DỊCH CHÍNH THỨC! - OFFICIAL)|
+| Plugin / Mod                           | Tiến trình bản dịch                                              | Có phải là Resource Pack?             |
+|----------------------------------------|------------------------------------------------------------------|---------------------------------------|
+| Create Aeronautics                     | ?% - Bản dịch khó, đặc biệt là dịch bằng Resource-pack           | Có, Crowdin của mod khá khó vào..     |
+| [No Man's Land](https://modrinth.com/mod/no-mans-land)| 100% - CẦN CHỈNH SỬA CHÍNH TẢ!                    | Có, được sự cho phép và sẽ trở thành bản chính thức khi được hoàn chỉnh |
+| [Cult of Azazel](https://modrinth.com/mod/cult-of-azazel)| 100% (ĐÃ THÀNH BẢN DỊCH CHÍNH THỨC! - OFFICIAL)| Không, mod mã nguồn đóng nhưng là bản dịch chính thức và được cấp qua Discord |
 
 # Lý do mình làm project này
 **Mình muốn làm những cái bản dịch có ý nghĩa nhất cho những người không rành tiếng Anh, trong cộng đồng MCVN ta và bạn bè của mình!**
